@@ -6,11 +6,16 @@ This project demonstrates how to use decision tree classifiers on datasets such 
 
 ## 📦 Requirements
 
-Install all necessary Python libraries using the following command:
+- Install all necessary Python libraries using the following command:
 
 ```bash
 pip install -r requirements.txt
 ```
+- If you're using Jupyter Notebook, you can install the required libraries with the following command inside a notebook cell:
+```bash
+!pip install -r requirements.txt
+```
+
 
 ## ⚙️ Install Graphviz (Required for Tree Visualization)
 ### 1. Windows
